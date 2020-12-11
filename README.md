@@ -1,4 +1,4 @@
-# ProceduralBossAnimationBoatAttack
+# Procedural Boss Animation with Boat Attack Water System
 
 Fixed Source code for boss procedural animation. Water system is taken from boat attack project(https://github.com/Unity-Technologies/BoatAttack)
 
