@@ -3,7 +3,7 @@
 Fixed Source code for boss procedural animation. Water system is taken from boat attack project(https://github.com/Unity-Technologies/BoatAttack)
 
 
-[![Demo footage](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=LVSmp0zW8pY "Demo footage")
+[![Demo footage](http://img.youtube.com/vi/LVSmp0zW8pY/0.jpg)](http://www.youtube.com/watch?v=LVSmp0zW8pY "Demo footage")
 
 [Demo Footage](https://www.youtube.com/watch?v=LVSmp0zW8pY)
 
